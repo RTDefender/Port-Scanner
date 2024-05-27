@@ -1,4 +1,4 @@
-## Intro
+## Port Scanner
 
 I created a simple port scanner using Python and named it My Port Scanner.
 
